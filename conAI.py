@@ -18,7 +18,7 @@ while True:
     if you == "":
         bot_brain = "I can't hear you. Try again"
     elif "hey" in you:
-        bot_brain = "turn off TV"
+        bot_brain = "turn on airconditional"
     elif "hello" in you:
         bot_brain = "Hello Sir"
     elif "today" in you:
